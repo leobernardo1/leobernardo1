@@ -1,4 +1,4 @@
-## Olá, eu sou Leonardo Flores Bernardo!
+## Olá, me chamo Leonardo Flores Bernardo!
 
 <div align="center">
   <a href="https://github.com/leobernardo1">
